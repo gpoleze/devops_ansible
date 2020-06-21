@@ -1,2 +1,3 @@
 ---
 wp_db_ip: '171.17.177.42'
+wp_installation_dir: '/var/www/wordpress'
